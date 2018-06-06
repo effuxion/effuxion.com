@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 416" width="256" height="416">
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="0" y1="5024" x2="25600" y2="5024">
+			<stop offset="0" stop-color="#4f4f4f"  />
+			<stop offset="100" stop-color="#000000"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="0" y1="4896" x2="25600" y2="4896">
+			<stop offset="0" stop-color="#4f4f4f"  />
+			<stop offset="100" stop-color="#000000"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="0" y1="8128" x2="25600" y2="8128">
+			<stop offset="0" stop-color="#060708"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="0" y1="8000" x2="25600" y2="8000">
+			<stop offset="0" stop-color="#060708"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="0" y1="8256" x2="25600" y2="8256">
+			<stop offset="0" stop-color="#060708"  />
+			<stop offset="1" stop-color="#ffffff"  />
+		</linearGradient>
+	</defs>
+	<g id="Layer">
+		<path id="Layer" style="fill: url(#grd1)" d="M0,256v32c0,5.39 116.38,14.43 192.2,32v0c36.63,-8.49 63.8,-18.97 63.8,-32v0v-32c0,-13.02 -27.17,-23.51 -63.8,-32v0c-75.82,17.58 -192.2,26.61 -192.2,32z" />
+		<path id="Layer" style="fill: url(#grd2)" d="M0,128v32c0,5.39 116.38,14.43 192.2,32v0c36.63,-8.49 63.8,-18.97 63.8,-32v0v-32c0,-13.02 -27.17,-23.51 -63.8,-32v0c-75.82,17.58 -192.2,26.61 -192.2,32z" />
+		<path id="Layer" style="fill: url(#grd3)" d="M0,192v96c0,-8 256,-24 256,-64v0v-96c0,40 -256,56 -256,64z" />
+		<path id="Layer" style="fill: url(#grd4)" d="M0,64v96c0,-8 256,-24 256,-64v0v-96c0,40 -256,56 -256,64z" />
+		<path id="Layer" style="fill: url(#grd5)" d="M0,320v96c0,-8 256,-24 256,-64v0v-96c0,40 -256,56 -256,64z" />
+	</g>
+</svg>
